@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu/Menu.unity
+    guid: a261d1f2c94f835478e415f6a4378beb
+  - enabled: 1
+    path: Assets/Scenes/IntroGame.unity
+    guid: ea97f3210b18547bba8e7686cad5c3dc
+  - enabled: 1
+    path: Assets/Scenes/Level_01.unity
+    guid: 3abded38271dd27409328cbbe9dccee4
+  - enabled: 1
+    path: Assets/Menu/Defeat.unity
+    guid: 045b4c51feeb2df4daf6145c42063f55
+  - enabled: 1
+    path: Assets/Menu/Victory.unity
+    guid: 1553942f912e6334a8bab7952b8cf5fc
+  m_configObjects: {}
